@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de ángel, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Susurro de ángel, Vol. 2** (susurro-de-angel-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T15:16:31.182114 | `v1` | `003c946b87d30276dd4ab61d166a3fa430487d38cf6184b3aedb7557df91e5a6` | `b7c6f8ddc10fb44f90ed1c8a907fc6f15cec2865ee74cdfc11acb5495302bdea` | `2026-06-24_susurro-de-angel-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

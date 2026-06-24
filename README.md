@@ -1,4 +1,4 @@
-# Susurro de ángel
+# Susurro de ángel, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Susurro de ángel |
+| **Title** | Susurro de ángel, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Susurro de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-angel/) |
+| **Get License** | [Request Licensing for Susurro de ángel, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco con ese caminar, my baby
+> Un susurro de ángel que me invita a pecar
+> La noche es nuestra, apaga ya el celular
+> Tus labios rojos son un vicio que no quiero dejar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `003c946b87d30276dd4ab61d166a3fa430487d38cf6184b3aedb7557df91e5a6` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

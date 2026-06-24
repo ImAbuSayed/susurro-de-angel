@@ -1,6 +1,6 @@
 # License
 
-**Susurro de ángel**
+**Susurro de ángel, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
